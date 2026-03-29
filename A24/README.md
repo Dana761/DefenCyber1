@@ -1,46 +1,42 @@
-# A2 – Discover Security Concepts Used in Public Space (CCTV)
-
 ## Overview
-This activity explores cybersecurity concepts used in public spaces by observing CCTV (Closed-Circuit Television) systems in Perth. The analysis applies the CIA Triad (Confidentiality, Integrity, Availability) to real-world surveillance systems.
+This activity involves teaching a family member about cybersecurity concepts and explaining how they impact digital transactions.
 
 ## Objective
-To identify and analyze how cybersecurity principles are implemented in public environments using CCTV systems.
+To reinforce cybersecurity understanding by explaining concepts to a non-technical audience.
 
-## Observation
-CCTV cameras were observed in:
-- Street intersections
-- Public transport areas (bus stops)
+## Activity Description
+I explained cybersecurity to my father through a messaging conversation. The discussion included the definition of cybersecurity, the CIA triad, and its impact on digital transactions.
 
-These cameras are used for:
-- Monitoring traffic and pedestrians
-- Crime prevention
-- Public safety enforcement
+## Explanation
 
-## CIA Triad Analysis
+### What is Cybersecurity
+Cybersecurity is the practice of protecting systems, networks, and data from digital attacks, unauthorized access, or damage.
 
-### Confidentiality
-- CCTV footage is only accessible by authorized personnel such as police or city operators
-- Cameras are installed only in public areas, not private spaces
-- Public awareness ensures transparency as people know they are being monitored
+### CIA Triad
+Confidentiality  
+Only authorized users can access sensitive data  
 
-This protects sensitive visual data such as faces and activities.
+Integrity  
+Data cannot be altered or tampered with  
 
-### Integrity
-- CCTV provides accurate, real-time video evidence
-- Footage is stored securely to prevent tampering
-- It can be used as legal evidence, requiring reliability
+Availability  
+Systems and data are accessible when needed  
 
-This ensures trustworthiness of recorded data.
+## Impact on Digital Transactions
+Confidentiality protects sensitive data such as credit card details.  
+Integrity ensures transaction data is accurate, including amount and recipient.  
+Availability ensures systems are always accessible for completing transactions.  
 
-### Availability
-- CCTV systems operate 24/7
-- Cameras are placed in high-risk or high-traffic areas
-- Authorities can access live feeds for quick response
+## Risks if Cybersecurity Fails
+- Data leaks
+- Fraud and identity theft
+- Transaction failures or manipulation
 
-This ensures security systems are always accessible.
+## Evidence
+- Screenshot of conversation explaining cybersecurity concepts
 
 ## Reflection
-This activity showed that cybersecurity is not limited to digital systems but also applies to physical environments. CCTV systems demonstrate how data protection, accuracy, and accessibility work together in real life.
+Teaching cybersecurity helped me simplify complex concepts and improve communication skills. It also showed how important cybersecurity is in everyday activities like online payments.
 
 ## Conclusion
-CCTV systems apply the CIA triad effectively to enhance public safety by ensuring surveillance data is secure, reliable, and always available.
+Explaining cybersecurity to others is an effective way to deepen understanding and raise awareness about digital safety.
